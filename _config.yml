@@ -1,0 +1,61 @@
+# _config.yml
+
+# Site settings
+title: "Rania Lasfar – AI Engineer & Data Scientist"
+description: "Portfolio of Rania Lasfar – AI, Data Science, Generative AI, RPA, and ML projects"
+url: "https://yourusername.github.io" # Remplace par ton URL GitHub Pages
+baseurl: "" # Laisser vide si site à la racine
+author:
+  name: "Rania Lasfar"
+  email: "rania.lasfar@lcieducation.net"
+  linkedin: "https://linkedin.com/in/rania-lasfar"
+  location: "Casablanca, Morocco"
+
+# Theme
+theme: jekyll-theme-slate # Tu peux changer selon tes préférences
+
+# Markdown options
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Navigation links
+nav_links:
+  - title: "About Me"
+    url: "#about-me"
+  - title: "Tech Stack"
+    url: "#tech-stack--badges"
+  - title: "Projects"
+    url: "#featured-projects-portfolio-cards"
+  - title: "Timeline"
+    url: "#timeline--my-journey"
+  - title: "Education"
+    url: "#education"
+  - title: "Certifications"
+    url: "#certifications"
+  - title: "Contact"
+    url: "#contact"
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Social links for footer
+social_links:
+  - icon: "mail"
+    url: "mailto:rania.lasfar@lcieducation.net"
+  - icon: "linkedin"
+    url: "https://linkedin.com/in/rania-lasfar"
+
+# Defaults for posts/pages
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Rania Lasfar"
+
+
