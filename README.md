@@ -43,51 +43,94 @@ I build intelligent systems, predictive models, dashboards, and end-to-end AI pi
 
 ---
 
-# 🕰️ Timeline – My Journey (Mermaid)
+# 🕰️ Timeline – My Journey
 
-```mermaid
-timeline
-    title Rania Lasfar – AI & Data Journey
-    2018 : Bac Scientifique (Option Française)
-    2019 : Faculty of Sciences – Biology
-    2020 : Master AI & Data Science (HEM)
-    2022 : Professional English Immersion (WSE)
-    2023 : Data Scientist – SRM
-    2024 : Power Platform Developer – CBI
-    2025 : Full Stack Data Developer – Crédit du Maroc
-🧪 Featured Projects (Portfolio Cards)
-<table> <tr> <td width="50%"> <h3>🔎 Pneumonia Detection (Deep Learning)</h3> Deep learning model using CNNs for detecting pneumonia from X-ray images.<br> <strong>Tech:</strong> TensorFlow, CNN, Medical Imaging </td> <td width="50%"> <h3>🏧 ATM Failure Prediction (GAB)</h3> Predictive maintenance for ATMs with dashboards and real-time alerts.<br> <strong>Tech:</strong> Python, ML, Power BI </td> </tr> <tr> <td width="50%"> <h3>🚦 Real-Time Traffic Prediction</h3> Forecasting congestion using time series and streaming data.<br> <strong>Tech:</strong> LSTM, Python </td> <td width="50%"> <h3>🧠 Mental Health Chatbot</h3> NLP-based chatbot providing supportive responses with sentiment analysis.<br> <strong>Tech:</strong> Transformers, NLP, Flask </td> </tr> <tr> <td width="50%"> <h3>📚 Plagiarism Detection Platform</h3> Semantic similarity detection using embeddings and NLP.<br> <strong>Tech:</strong> Sentence Transformers, NLP </td> <td width="50%"> <h3>🎬 Recommendation System</h3> Hybrid recommender inspired by Netflix’s algorithms.<br> <strong>Tech:</strong> ML, Similarity Models </td> </tr> </table>
-🎓 Education
+- **2018** – Bac Scientifique (Option Française)  
+- **2019** – Faculty of Sciences – Biology  
+- **2020–2025** – Master AI & Data Science (HEM)  
+- **2022** – Professional English Immersion (WSE)  
+- **2023** – Data Scientist – SRM  
+- **2024** – Power Platform Developer – CBI  
+- **2025** – Full Stack Data Developer – Crédit du Maroc  
 
-🎓 Master – Artificial Intelligence & Data Science (HEM, 2020–2025)
+---
 
-🇬🇧 Professional English Immersion – Wall Street English (2022–…)
+# 🧪 Featured Projects (Portfolio Cards)
 
-🎓 Bac Scientifique – Option Française (2019)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔎 Pneumonia Detection (Deep Learning)</h3>
+      Deep learning model using CNNs for detecting pneumonia from X-ray images.<br>
+      <strong>Tech:</strong> TensorFlow, CNN, Medical Imaging
+    </td>
+    <td width="50%">
+      <h3>🏧 ATM Failure Prediction (GAB)</h3>
+      Predictive maintenance for ATMs with dashboards and real-time alerts.<br>
+      <strong>Tech:</strong> Python, ML, Power BI
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🚦 Real-Time Traffic Prediction</h3>
+      Forecasting congestion using time series and streaming data.<br>
+      <strong>Tech:</strong> LSTM, Python
+    </td>
+    <td width="50%">
+      <h3>🧠 Mental Health Chatbot</h3>
+      NLP-based chatbot providing supportive responses with sentiment analysis.<br>
+      <strong>Tech:</strong> Transformers, NLP, Flask
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Plagiarism Detection Platform</h3>
+      Semantic similarity detection using embeddings and NLP.<br>
+      <strong>Tech:</strong> Sentence Transformers, NLP
+    </td>
+    <td width="50%">
+      <h3>🎬 Recommendation System</h3>
+      Hybrid recommender inspired by Netflix’s algorithms.<br>
+      <strong>Tech:</strong> ML, Similarity Models
+    </td>
+  </tr>
+</table>
 
-🎖 Certifications
+---
 
-IBM – Generative AI: Applications for Business
+# 🎓 Education
 
-IBM – Data Science Professional Certificate
+- 🎓 Master – Artificial Intelligence & Data Science (HEM, 2020–2025)  
+- 🇬🇧 Professional English Immersion – Wall Street English (2022–…)  
+- 🎓 Bac Scientifique – Option Française (2019)
 
-IBM – Agile Leadership & Scrum
+---
 
-Automation Anywhere – Essentials Automation Professional
+# 🎖 Certifications
 
-🌍 Languages
+- IBM – Generative AI: Applications for Business  
+- IBM – Data Science Professional Certificate  
+- IBM – Agile Leadership & Scrum  
+- Automation Anywhere – Essentials Automation Professional
 
-🇲🇦 Arabic – Native
+---
 
-🇫🇷 French – C1 (DALF)
+# 🌍 Languages
 
-🇬🇧 English – C1 (Cambridge/Oxford)
+- 🇲🇦 Arabic – Native  
+- 🇫🇷 French – C1 (DALF)  
+- 🇬🇧 English – C1 (Cambridge/Oxford)
 
-📫 Contact
+---
 
-📧 Email: rania.lasfar@lcieducation.net
+# 📫 Contact
 
-📞 Phone: 0661771735
+📧 Email: rania.lasfar@lcieducation.net  
+📞 Phone: 0661771735  
 🔗 LinkedIn: https://linkedin.com/in/rania-lasfar
 
-<p align="center"> <strong>✨ Always learning. Always building. Always improving. ✨</strong> </p> ```
+---
+
+<p align="center">
+  <strong>✨ Always learning. Always building. Always improving. ✨</strong>
+</p>
