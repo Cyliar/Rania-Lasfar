@@ -55,8 +55,8 @@ timeline
     2023 : Data Scientist – SRM
     2024 : Power Platform Developer – CBI
     2025 : Full Stack Data Developer – Crédit du Maroc
-Featured Projects (Portfolio Cards)
-<table> <tr> <td width="50%"> <h3>🔎 Pneumonia Detection (Deep Learning)</h3> <p>Deep learning model using CNNs for detecting pneumonia from X-ray images.</p> <strong>Tech:</strong> TensorFlow, CNN, Medical Imaging </td> <td width="50%"> <h3>🏧 ATM Failure Prediction (GAB)</h3> <p>Predictive maintenance for ATMs with dashboards and real-time alerts.</p> <strong>Tech:</strong> Python, ML, Power BI </td> </tr> <tr> <td width="50%"> <h3>🚦 Real-Time Traffic Prediction</h3> <p>Forecasting congestion using time series and streaming data.</p> <strong>Tech:</strong> LSTM, Python </td> <td width="50%"> <h3>🧠 Mental Health Chatbot</h3> <p>NLP-based chatbot providing supportive responses with sentiment analysis.</p> <strong>Tech:</strong> Transformers, NLP, Flask </td> </tr> <tr> <td width="50%"> <h3>📚 Plagiarism Detection Platform</h3> <p>Semantic similarity detection using embeddings and NLP.</p> <strong>Tech:</strong> Sentence Transformers, NLP </td> <td width="50%"> <h3>🎬 Recommendation System</h3> <p>Hybrid recommender inspired by Netflix’s algorithms.</p> <strong>Tech:</strong> ML, Similarity Models </td> </tr> </table>
+🧪 Featured Projects (Portfolio Cards)
+<table> <tr> <td width="50%"> <h3>🔎 Pneumonia Detection (Deep Learning)</h3> Deep learning model using CNNs for detecting pneumonia from X-ray images.<br> <strong>Tech:</strong> TensorFlow, CNN, Medical Imaging </td> <td width="50%"> <h3>🏧 ATM Failure Prediction (GAB)</h3> Predictive maintenance for ATMs with dashboards and real-time alerts.<br> <strong>Tech:</strong> Python, ML, Power BI </td> </tr> <tr> <td width="50%"> <h3>🚦 Real-Time Traffic Prediction</h3> Forecasting congestion using time series and streaming data.<br> <strong>Tech:</strong> LSTM, Python </td> <td width="50%"> <h3>🧠 Mental Health Chatbot</h3> NLP-based chatbot providing supportive responses with sentiment analysis.<br> <strong>Tech:</strong> Transformers, NLP, Flask </td> </tr> <tr> <td width="50%"> <h3>📚 Plagiarism Detection Platform</h3> Semantic similarity detection using embeddings and NLP.<br> <strong>Tech:</strong> Sentence Transformers, NLP </td> <td width="50%"> <h3>🎬 Recommendation System</h3> Hybrid recommender inspired by Netflix’s algorithms.<br> <strong>Tech:</strong> ML, Similarity Models </td> </tr> </table>
 🎓 Education
 
 🎓 Master – Artificial Intelligence & Data Science (HEM, 2020–2025)
@@ -89,4 +89,5 @@ Automation Anywhere – Essentials Automation Professional
 
 📞 Phone: 0661771735
 🔗 LinkedIn: https://linkedin.com/in/rania-lasfar
+
 <p align="center"> <strong>✨ Always learning. Always building. Always improving. ✨</strong> </p> ```
